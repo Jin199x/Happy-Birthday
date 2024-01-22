@@ -5,7 +5,7 @@ canvas {
 }
 p {
 	margin: 0 0;
-	position: center;
+	position: absolute;
 	font: 16px Verdana;
 	color: #eee;
 	height: 25px;
@@ -17,7 +17,7 @@ p a {
 	color: #aaa;
 }
 span {
-	font-size: 40px;
+	font-size: 11px;
 }
 p > a:first-of-type {
 	font-size: 20px;
